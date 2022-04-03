@@ -1,0 +1,21 @@
+[
+  {
+    "id" : 1,
+    "name" : "van",
+    "hp" : 100000000,
+    "image" : "van"
+  },
+  {
+    "id" : 2,
+    "name" : "mmmm",
+    "hp" : 100000000,
+    "image" : "mmmm"
+  },
+  {
+    "id" : 3,
+    "name" : "kazuya",
+    "hp" : 100000000,
+    "image" : "kazuya"
+  }
+]
+

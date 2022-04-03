@@ -1,0 +1,44 @@
+[
+  {
+    "id" : 1,
+    "price" : 5,
+    "name" : "aniki kiss",
+    "power" : 5
+  },
+  {
+    "id" : 2,
+    "price" : 25,
+    "name" : "van's mask",
+    "power" : 30
+  },
+  {
+    "id" : 3,
+    "price" : 100,
+    "name" : "some gachi shit",
+    "power" : 80
+  },
+  {
+    "id" : 4,
+    "price" : 1000,
+    "name" : "another gachi shit",
+    "power" : 150
+  },
+  {
+    "id" : 5,
+    "price" : 5000,
+    "name" : "power of gaysex",
+    "power" : 300
+  },
+  {
+    "id" : 6,
+    "price" : 10000,
+    "name" : "DO YOU LIKE WHAT YOU SEE?",
+    "power" : 600
+  },
+  {
+    "id" : 7,
+    "price" : 100000,
+    "name" : "FUCKING SLAAAVE",
+    "power" : 1000
+  }
+]
